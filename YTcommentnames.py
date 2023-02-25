@@ -2,10 +2,10 @@ import requests
 import json
 
 # Replace YOUR_API_KEY with your API key
-API_KEY = 'AIzaSyDNnRmPlk-_KPmpCWJWZ8odNWcsWKBidt4'
+API_KEY = 'API KEY HERE'
 
 # Replace VIDEO_ID with the ID of the YouTube video for which you want to retrieve the comments
-VIDEO_ID = 'kpJdwKAx5p4'
+VIDEO_ID = 'VIDEO KEY HERE' 
 
 # Define the API endpoint URL
 url = 'https://www.googleapis.com/youtube/v3/commentThreads'
